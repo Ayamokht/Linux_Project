@@ -1,0 +1,14 @@
+cdsapi==0.7.4
+folium
+geopy
+numpy
+pandas
+plotly
+streamlit
+streamlit_folium
+xarray
+
+
+
+
+
