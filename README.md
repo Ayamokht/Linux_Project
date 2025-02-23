@@ -1,14 +1,13 @@
-# linux_projet_mosef
-
 # Visualisation des indicateurs de risque climatique 🌍  
 
-## Introduction  
+## Contexte du projet: 
 Ce projet a été développé dans le cadre d'une évaluation pour le Master MoSEF en Data Science de Paris 1 Panthéon-Sorbonne. Il consiste à créer une application web interactive permettant d'appréhender certains risques climatiques en Europe pour les prochaines années, en utilisant des indicateurs calculées par **Copernicus**.  
 
 Avec cette application, les utilisateurs peuvent entrer des coordonnées géographiques pour afficher le niveau de risque climatique associé à une année et à un indicateur spécifique. 
 Il est aussi affiché un graphique de l'évolution de la prévision du risque selon les années pour la localisation donnée, ainsi que d'une carte de permettant de visualiser l'adresse saisie. 
 
-## Fonctionnalités  
+## Fonctionnalités: 
+
 - Recherche de risques climatiques à l'aide d'une adresse.  
 - Possibilité de sélectionner deux indicateurs de risque climatique. 
 - Visualisation interactive.  
